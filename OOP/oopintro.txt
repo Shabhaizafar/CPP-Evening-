@@ -1,0 +1,36 @@
+What is OOP in C++?
+Object-Oriented Programming (OOP) is a programming paradigm in C++ that is based on the concept of objects. These objects are instances of classes, which act as blueprints for defining data structures and behaviors.
+
+C++ supports OOP principles such as:
+
+Encapsulation – Wrapping data and methods into a single unit (class).
+Abstraction – Hiding implementation details and exposing only necessary functionality.
+Inheritance – Reusing existing class functionality by creating derived classes.
+Polymorphism – Using a single interface to represent different data types or behaviors.
+Why Use OOP in C++?
+Using OOP in C++ provides several advantages:
+
+Modularity – Code is organized into objects, making it easier to manage.
+Reusability – Classes and functions can be reused, reducing code duplication.
+Maintainability – Changes in one part of the program do not affect other parts.
+Scalability – Suitable for large and complex applications.
+Security – Data hiding through encapsulation prevents unintended access.
+-----------------------------------------------------------------------------------
+What is a Class in C++? : 
+
+A class in C++ is a blueprint or template for creating objects. It defines data members (variables) and member functions (methods) that operate on the data.
+
+A class does not occupy memory until an object of that class is created.
+
+
+Syntax of a Class in C++
+
+class ClassName {
+   // Access specifiers
+   private:  
+       // Private members (not accessible outside the class)
+   protected:  
+       // Protected members (accessible in derived classes)
+   public:  
+       // Public members (accessible from outside the class)
+};

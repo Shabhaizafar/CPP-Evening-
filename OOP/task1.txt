@@ -1,0 +1,48 @@
+1️⃣ Create a Class for a Student
+Task:
+
+Create a class Student with the following public attributes:
+name (string)
+age (int)
+grade (char)
+Add public methods to set and display student details.
+In main(), create an object and display the student's details.
+###################################################################
+2️⃣ Design a Simple Calculator
+Task:
+
+Create a class Calculator with public methods:
+add(int, int), subtract(int, int), multiply(int, int), divide(int, int).
+Each method should perform the respective arithmetic operation and return the result.
+In main(), create an object and call all methods with user input.
+###################################################################
+3️⃣ Bank Account Class
+Task:
+
+Create a class BankAccount with public attributes:
+accountHolder (string)
+balance (double)
+Add public methods:
+deposit(double amount), withdraw(double amount), and displayBalance().
+In main(), create an object and perform deposit and withdrawal operations.
+###################################################################
+4️⃣ Car Class with Constructor
+Task:
+
+Create a class Car with public attributes:
+brand (string)
+speed (int)
+Add a constructor to initialize these values.
+Create a method displayDetails() to print car details.
+In main(), create an object and display its details.
+###################################################################
+5️⃣ Employee Salary Calculator
+Task:
+
+Create a class Employee with public attributes:
+name (string)
+salary (double)
+Add a constructor to initialize values.
+Add a method applyBonus(double percentage) to increase salary by a given percentage.
+In main(), create an object and apply a bonus to the employee’s salary.
+###################################################################
