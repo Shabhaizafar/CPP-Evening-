@@ -1,0 +1,86 @@
+1️⃣ Book Class
+Task:
+Create a class Book with public attributes:
+
+title (string)
+author (string)
+price (double)
+Add a constructor to initialize the attributes and a method displayDetails() that prints the book's details.
+
+2️⃣ Person Class
+Task:
+Create a class Person with public attributes:
+
+name (string)
+age (int)
+gender (char)
+Add a constructor to initialize the attributes and a method greet() that displays a greeting message using the person's name.
+
+3️⃣ Rectangle Class
+Task:
+Create a class Rectangle with public attributes:
+
+length (double)
+width (double)
+Add a constructor to initialize the values of length and width. Create a method calculateArea() that displays the area of the rectangle.
+
+4️⃣ Employee Class
+Task:
+Create a class Employee with public attributes:
+
+name (string)
+position (string)
+salary (double)
+Add a constructor to initialize the attributes. Include a method increaseSalary(double percentage) to increase the employee's salary by the given percentage.
+
+5️⃣ Student Class
+Task:
+Create a class Student with public attributes:
+
+name (string)
+age (int)
+grade (char)
+Add a constructor to initialize the attributes. Create a method displayInfo() to display the student’s details.
+
+6️⃣ Timer Class
+Task:
+Create a class Timer with public attributes:
+
+hours (int)
+minutes (int)
+seconds (int)
+Add a constructor to initialize the time. Add a method tick() that increases the time by one second.
+
+7️⃣ Laptop Class
+Task:
+Create a class Laptop with public attributes:
+
+brand (string)
+model (string)
+price (double)
+Add a constructor to initialize the attributes. Create a method displayLaptopDetails() to print the laptop's details.
+
+8️⃣ Animal Class
+Task:
+Create a class Animal with public attributes:
+
+name (string)
+type (string)
+sound (string)
+Add a constructor to initialize the attributes. Include a method makeSound() that prints the animal's sound.
+
+9️⃣ Counter Class
+Task:
+Create a class Counter with a public attribute:
+
+count (int)
+Add a constructor to initialize the count to 0. Include a method increment() to increase the count by 1 and a method displayCount() to display the current count.
+
+🔟 Phone Class
+Task:
+Create a class Phone with public attributes:
+
+brand (string)
+model (string)
+price (double)
+Add a constructor to initialize the attributes. Create a method displayPhoneInfo() to display the phone's brand, model, and price.
