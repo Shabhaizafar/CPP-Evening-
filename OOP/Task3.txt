@@ -1,0 +1,5 @@
+Question 1:
+Write a program to create a Vehicle parent class with two member variables: make (string) and model (string). Create a Car child class that inherits from Vehicle, with an additional member variable year (integer). The Car class should have a constructor that initializes the make, model, and year values. In the main function, create an object of the Car class and print the make, model, and year of the car. What will be the output if the following values are used: make = "Toyota", model = "Corolla", year = 2020?
+
+Question 2:
+Write a program where you have a Person class as the parent class with a member variable name. Create a Student child class that inherits from Person and adds an additional member variable grade. The Student class should have a constructor that initializes both name and grade. In the main function, create an object of the Student class, and print the name and grade of the student. What will be the output if the following values are used: name = "Alice", grade = "A"?
