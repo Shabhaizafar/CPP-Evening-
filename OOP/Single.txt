@@ -1,0 +1,26 @@
+
+
+### **1. Simple Inheritance Program**  
+Write a C++ program where a **base class `Animal`** has a function `sound()`, and a **derived class `Dog`** inherits from `Animal` and overrides `sound()` to print `"Barking"`.
+
+---
+
+### **2. Constructor Execution in Inheritance**  
+Write a program to demonstrate **the order of constructor execution** in single-level inheritance. Create a base class `Base` and a derived class `Derived`. Print messages inside the constructors of both classes to show the order of execution.
+
+---
+
+### **3. Inheritance with Parameterized Constructor**  
+Create a **base class `Vehicle`** that takes an integer `wheels` as a parameter in its constructor. Create a **derived class `Car`** that inherits from `Vehicle` and initializes `wheels` using the base class constructor. Display the number of wheels.
+
+---
+
+### **4. Access Specifier in Inheritance**  
+Create a class `Person` with `protected` attributes `name` and `age`. Derive a class `Student` that inherits `Person` and initializes `name` and `age` through a constructor. Implement a function `display()` to print the student details.
+
+---
+
+### **5. Private Members in Base Class**  
+Write a program where a **class `Account`** has a `private` data member `balance`. Create a derived class `SavingsAccount` that tries to access `balance` directly. Modify the program using getter and setter methods to access `balance` correctly.  
+
+---
