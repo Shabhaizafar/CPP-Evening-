@@ -1,0 +1,23 @@
+Problem Statement: Hybrid Vehicle System
+A hybrid car combines features of both electric vehicles and fuel-powered vehicles. You are required to design a C++ program using multiple inheritance to model this system.
+
+Requirements:
+Create a base class ElectricVehicle with a method chargeBattery() that prints "Charging battery...".
+
+Create another base class FuelVehicle with a method refuel() that prints "Refueling gasoline...".
+
+Create a derived class HybridCar that inherits from both ElectricVehicle and FuelVehicle.
+
+The HybridCar class should have a method drive() that prints "Driving using both battery and fuel engine."
+
+In the main() function:
+
+Create an object of HybridCar.
+
+Call all three methods (chargeBattery(), refuel(), and drive()) to demonstrate multiple inheritance.
+
+Example Output:
+
+Charging battery...
+Refueling gasoline...
+Driving using both battery and fuel engine.
