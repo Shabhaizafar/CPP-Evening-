@@ -1,0 +1,71 @@
+
+
+### **1. Single Inheritance (10 Questions)**
+
+2. Model a `Person` base class and derive a `Student` class to include course details.  
+3. Design a `Device` class and derive a `Smartphone` class with additional apps and features.  
+4. Create an `Animal` class and derive a `Dog` class that includes barking behavior.  
+7. Design a `BankAccount` class and derive a `SavingsAccount` class with interest logic.  
+8. Create a `Machine` base class and derive a `WashingMachine` class with washing cycles.  
+ 
+10. Develop a `Furniture` class and derive a `Chair` class that includes comfort features.
+
+---
+
+### **2. Multiple Inheritance (10 Questions)**
+
+11. Create a `Teacher` and `Researcher` class, then derive a `Professor` class from both.  
+12. Design a `Driver` and `Mechanic` class, and derive a `RaceCarDriver` class.  
+13. Model a `Musician` and `Painter` class, then create an `Artist` class from both.  
+14. Create a `Doctor` and `Writer` class, then derive a `MedicalJournalist` class.  
+15. Design a `Pilot` and `Engineer` class, then derive an `AerospaceExpert` class.  
+16. Model a `Chef` and `Nutritionist` class, then derive a `HealthChef` class.  
+17. Create a `Salesperson` and `Technician` class, then derive a `TechSalesExecutive` class.  
+18. Design a `Gamer` and `YouTuber` class, then derive a `GamingContentCreator` class.  
+19. Model a `Manager` and `Mentor` class, then derive a `TeamLeader` class.  
+20. Create a `Scientist` and `Inventor` class, then derive an `Innovator` class.
+
+---
+
+### **3. Multilevel Inheritance (10 Questions)**
+
+21. Create a `Person` class → `Employee` → `Manager` with added responsibilities at each level.  
+22. Model a `Product` → `ElectronicProduct` → `Smartphone` hierarchy.  
+23. Design a `Vehicle` → `MotorVehicle` → `Motorcycle` class structure.  
+24. Build a `LivingBeing` → `Animal` → `Dog` class with specific traits.  
+25. Create a `Shape` → `Polygon` → `Triangle` with added functionality at each level.  
+26. Model a `User` → `RegisteredUser` → `PremiumUser` class in a web app.  
+27. Design a `Course` → `OnlineCourse` → `CertificationCourse` structure.  
+28. Create a `Company` → `Branch` → `Team` class with hierarchical data.  
+29. Model a `Document` → `EditableDocument` → `WordDocument` class.  
+30. Design a `Game` → `BoardGame` → `StrategyBoardGame` class structure.
+
+---
+
+### **4. Hierarchical Inheritance (10 Questions)**
+
+31. Create a `Employee` class and derive `Engineer`, `Manager`, and `HR` classes.  
+32. Design a `Shape` class and derive `Circle`, `Rectangle`, and `Triangle` classes.  
+33. Model a `Device` class and derive `Laptop`, `Tablet`, and `Smartphone` classes.  
+34. Create a `Vehicle` class and derive `Car`, `Bike`, and `Truck` classes.  
+35. Design a `FoodItem` class and derive `Fruit`, `Vegetable`, and `Grain` classes.  
+36. Model a `Teacher` class and derive `MathTeacher`, `ScienceTeacher`, and `HistoryTeacher`.  
+37. Create a `Product` class and derive `Electronics`, `Clothing`, and `Furniture` classes.  
+38. Design a `Book` class and derive `Fiction`, `NonFiction`, and `Textbook` classes.  
+39. Model a `Pet` class and derive `Dog`, `Cat`, and `Bird` classes.  
+40. Create a `Building` class and derive `School`, `Hospital`, and `Mall` classes.
+
+---
+
+### **5. Hybrid Inheritance (10 Questions)**
+
+41. Model `Person` → `Employee`, and also derive `Student` → `Intern`, with both `Person` and `Student`.  
+42. Design a system with `LivingBeing` → `Human` and also `Worker`, then derive `Engineer`.  
+43. Create a `Vehicle` base, derive `LandVehicle` and `WaterVehicle`, then a hybrid `AmphibiousVehicle`.  
+44. Model `Appliance`, `Electronic`, and derive `SmartHomeDevice` from both.  
+45. Design a `User` → `Seller` and `Buyer`, then derive `MarketplaceUser` from both.  
+46. Create a `Writer` and `Editor` class, then derive `ContentCreator` from both and inherit common traits.  
+47. Model `Person` → `Athlete` and `Student`, then derive `StudentAthlete`.  
+48. Design `Instrument`, `ElectronicDevice`, and derive `ElectricGuitar` from both.  
+49. Create `Teacher`, `AdminStaff`, and derive `SchoolCoordinator` combining both roles.  
+50. Model `Musician` and `Programmer`, then derive `MusicAppDeveloper`.
