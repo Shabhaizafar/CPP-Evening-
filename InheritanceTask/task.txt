@@ -7,7 +7,6 @@
 4. Create an `Animal` class and derive a `Dog` class that includes barking behavior.  
 7. Design a `BankAccount` class and derive a `SavingsAccount` class with interest logic.  
 8. Create a `Machine` base class and derive a `WashingMachine` class with washing cycles.  
- 
 10. Develop a `Furniture` class and derive a `Chair` class that includes comfort features.
 
 ---
@@ -32,9 +31,9 @@
 21. Create a `Person` class → `Employee` → `Manager` with added responsibilities at each level.  
 22. Model a `Product` → `ElectronicProduct` → `Smartphone` hierarchy.  
 23. Design a `Vehicle` → `MotorVehicle` → `Motorcycle` class structure.  
-24. Build a `LivingBeing` → `Animal` → `Dog` class with specific traits.  
+  
 25. Create a `Shape` → `Polygon` → `Triangle` with added functionality at each level.  
-26. Model a `User` → `RegisteredUser` → `PremiumUser` class in a web app.  
+  
 27. Design a `Course` → `OnlineCourse` → `CertificationCourse` structure.  
 28. Create a `Company` → `Branch` → `Team` class with hierarchical data.  
 29. Model a `Document` → `EditableDocument` → `WordDocument` class.  
