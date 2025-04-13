@@ -17,8 +17,8 @@
 12. Design a `Driver` and `Mechanic` class, and derive a `RaceCarDriver` class.  
 13. Model a `Musician` and `Painter` class, then create an `Artist` class from both.  
 14. Create a `Doctor` and `Writer` class, then derive a `MedicalJournalist` class.  
-15. Design a `Pilot` and `Engineer` class, then derive an `AerospaceExpert` class.  
-16. Model a `Chef` and `Nutritionist` class, then derive a `HealthChef` class.  
+
+
 17. Create a `Salesperson` and `Technician` class, then derive a `TechSalesExecutive` class.  
 18. Design a `Gamer` and `YouTuber` class, then derive a `GamingContentCreator` class.  
 19. Model a `Manager` and `Mentor` class, then derive a `TeamLeader` class.  
