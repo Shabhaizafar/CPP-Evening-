@@ -44,14 +44,16 @@
 ### **4. Hierarchical Inheritance (10 Questions)**
 
 31. Create a `Employee` class and derive `Engineer`, `Manager`, and `HR` classes.  
-32. Design a `Shape` class and derive `Circle`, `Rectangle`, and `Triangle` classes.  
+
 33. Model a `Device` class and derive `Laptop`, `Tablet`, and `Smartphone` classes.  
 34. Create a `Vehicle` class and derive `Car`, `Bike`, and `Truck` classes.  
 35. Design a `FoodItem` class and derive `Fruit`, `Vegetable`, and `Grain` classes.  
 36. Model a `Teacher` class and derive `MathTeacher`, `ScienceTeacher`, and `HistoryTeacher`.  
 37. Create a `Product` class and derive `Electronics`, `Clothing`, and `Furniture` classes.  
 38. Design a `Book` class and derive `Fiction`, `NonFiction`, and `Textbook` classes.  
+
 39. Model a `Pet` class and derive `Dog`, `Cat`, and `Bird` classes.  
+
 40. Create a `Building` class and derive `School`, `Hospital`, and `Mall` classes.
 
 ---
